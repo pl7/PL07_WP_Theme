@@ -1,0 +1,28 @@
+@CHARSET "UTF-8";
+
+label {
+    text-align: right;
+    width: 90px;
+    float: left;
+	padding-right: 5px;
+}
+
+input {
+    margin-top: 0px;
+    padding-top: 0px;
+}
+
+fieldset {
+    padding-top: 5px;
+    width: 45%;
+}
+
+#confidenceDisplay {
+    vertical-align: top;
+}
+
+input[value *="online"]
+
+form * {
+	font-size: small;	
+}
